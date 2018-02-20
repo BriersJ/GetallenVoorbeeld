@@ -21,6 +21,7 @@ namespace GetallenConsole
 
             Console.WriteLine("GGD: " + _controller.zoekGGD());
 
+            Console.WriteLine("Druk om een knop om te eindigen.");
             Console.ReadKey();
 
         }

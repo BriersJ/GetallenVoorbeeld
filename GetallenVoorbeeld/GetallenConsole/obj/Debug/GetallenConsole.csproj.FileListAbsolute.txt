@@ -6,3 +6,12 @@ C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetalLibrary
 C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.csprojResolveAssemblyReference.cache
 C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.exe
 C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.pdb
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetallenConsole.exe.config
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetallenConsole.exe
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetallenConsole.pdb
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetalLibrary.dll
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\bin\Debug\GetalLibrary.pdb
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.csprojResolveAssemblyReference.cache
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.csproj.CoreCompileInputs.cache
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.exe
+C:\Users\leerling\source\repos\GetallenVoorbeeld\GetallenConsole\obj\Debug\GetallenConsole.pdb
