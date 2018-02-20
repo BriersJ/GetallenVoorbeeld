@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GetalLibrary
 {
     public class controller
-    {
+    {//test
         Getallen _getallen = new Getallen();
 
         public void setGetal1(int g1)
