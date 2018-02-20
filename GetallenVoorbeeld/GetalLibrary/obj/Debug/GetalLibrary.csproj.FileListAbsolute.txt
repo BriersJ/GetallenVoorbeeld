@@ -3,3 +3,9 @@ C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\bin\Debug\GetalLibrary.dl
 C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\bin\Debug\GetalLibrary.pdb
 C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.dll
 C:\Users\Ludwig\Desktop\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.pdb
+C:\Users\leerling\Desktop\StartVoorbeeld\GetallenVoorbeeld\GetalLibrary\bin\Debug\GetalLibrary.dll
+C:\Users\leerling\Desktop\StartVoorbeeld\GetallenVoorbeeld\GetalLibrary\bin\Debug\GetalLibrary.pdb
+C:\Users\leerling\Desktop\StartVoorbeeld\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.csprojResolveAssemblyReference.cache
+C:\Users\leerling\Desktop\StartVoorbeeld\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\leerling\Desktop\StartVoorbeeld\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.dll
+C:\Users\leerling\Desktop\StartVoorbeeld\GetallenVoorbeeld\GetalLibrary\obj\Debug\GetalLibrary.pdb

@@ -31,14 +31,7 @@ namespace GetalLibrary
             int kleinste;
             int oplossing=1;
 
-            if (_g1<_g2)
-            {
-                kleinste = _g1;
-            }
-            else
-            {
-                kleinste = _g2;
-            }
+            kleinste = Math.Min(_g1, _g2);
 
             for (int i = kleinste; i>=1; i--)
             {
